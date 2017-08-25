@@ -24,7 +24,7 @@ import java.util.List;
 import java.util.TimeZone;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
-    private final String API_KEY = "ea6ab1ca55169a961c105dd860a3d79f"; // Your API Key here
+    private final String API_KEY = "ea6ab1ca55169a961c105dd860a3d79f"; // Your API Key here. Note that this example key will not work!
     private TextView cityNameTextView;
     private TextView day1TemperatureTextView;
     private TextView day2DateTextView;
